@@ -1,7 +1,6 @@
-NAME: Jonathan Lin, Alex Kern
-PLATFORM: MAC OS-X
-
-Logins: cs184-dw, cs184-cu
+Name: Jonathan Lin (cs184-dw), Alex Kern (cs184-cu)
+Platform: Mac OSX
+Source: ~cs184-cu/assignments/ass4
 
 To compile, type "make". To run, run ./inversekin
 
@@ -11,4 +10,3 @@ as you can see in the video.
 
 Use the arrow keys to move the image around, and use the + and -
 keys to zoom in and out.
-
